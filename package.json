@@ -1,0 +1,14 @@
+{
+  "name": "richmessage-tests",
+  "version": "1.0.0",
+  "description": "Richmessage tests for Rocket.Chat bot built with any bot framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Utkarsh Barsaiyan",
+  "license": "ISC"
+}

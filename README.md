@@ -1,0 +1,1 @@
+# richmessage-tests
