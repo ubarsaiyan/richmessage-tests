@@ -1,6 +1,6 @@
 {
   "name": "richmessage-tests",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Richmessage tests for Rocket.Chat bot built with any bot framework",
   "main": "index.js",
   "scripts": {
