@@ -10,5 +10,13 @@
     "bot"
   ],
   "author": "Utkarsh Barsaiyan",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubarsaiyan/richmessage-tests.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ubarsaiyan/richmessage-tests/issues"
+  },
+  "homepage": "https://github.com/ubarsaiyan/richmessage-tests#readme"
 }
